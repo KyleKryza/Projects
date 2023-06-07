@@ -5,7 +5,7 @@ Here are some Discord bots I created from scratch in order to show real-time sto
 
 ## Skills Utilized
 - Using different APIs to get stock and crypto data.
-- Using Python to handle the data and format it correctly..
+- Using Python to handle the data and format it correctly.
 - Researching the Discord API in order to learn the library.
 - Deploying and running these applications on AWS.
 
